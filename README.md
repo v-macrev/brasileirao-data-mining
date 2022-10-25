@@ -1,4 +1,4 @@
-# There's some inequality in Brazilian Football Championship? (Federal Institue Activity)
+# There's some inequality in Brazilian Football Championship? (Federal Institute Activity)
 An exploratory data analysis to get the answer.
 
 # How to run the notebook
